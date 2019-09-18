@@ -1,6 +1,6 @@
 # Implementation: *Molecular heterogeneity drives reconfigurable nematic liquid crystal drops*
 
-These are custom Python codes that are associated with the free energy modeling in our paper, "Molecular heterogeneity induces reconfigurable nematic liquid crystal drops".
+These are custom Python codes that are associated with the free energy modeling in our paper, "Molecular heterogeneity drives reconfigurable nematic liquid crystal drops".
 
 These codes can be easily followed and run, and will help interested readers verify our results and explore other combinations of parameters. 
 
